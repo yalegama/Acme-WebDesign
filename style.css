@@ -144,3 +144,23 @@ article#main__col {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+/* ------------------Services Page Styling */
+
+.submit {
+  background-color: #e8491d;
+  border: none;
+  padding: 5px;
+  margin-top: 5px;
+}
+.dark1 {
+  padding: 15px;
+  background: #35424a;
+  color: #ffffff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+aside#sidebar1 {
+  float: left;
+  width: 25%;
+}
